@@ -1,7 +1,7 @@
 ![logo](https://github.com/israfil3/israfil3/blob/main/israfilGitHub.jpg)
 <h1 align="center">Hi 👋, I'm Israfil Hossin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align ="right" alt="coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israfil3&label=Profile%20views&color=0e75b6&style=flat" alt="israfil3" /> </p>
 
 - 🔭 I’m currently working on [All Steinway School.](https://assignment12-6fd65.web.app/)
